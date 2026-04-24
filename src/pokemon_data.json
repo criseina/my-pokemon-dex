@@ -1,0 +1,5559 @@
+[
+  {
+    "id": 1,
+    "name": "이상해꽃",
+    "type": [
+      "풀",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "솔라빔",
+        "power": 120
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "리프스톰",
+        "power": 130
+      },
+      {
+        "name": "꽃잎댄스",
+        "power": 120
+      }
+    ],
+    "image": "/images/이상해꽃.png"
+  },
+  {
+    "id": 2,
+    "name": "리자몽",
+    "type": [
+      "불꽃",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "화염방사",
+        "power": 90
+      },
+      {
+        "name": "에어슬래시",
+        "power": 75
+      },
+      {
+        "name": "드래곤클로",
+        "power": 80
+      },
+      {
+        "name": "블러스트번",
+        "power": 150
+      }
+    ],
+    "image": "/images/리자몽.png"
+  },
+  {
+    "id": 3,
+    "name": "거북왕",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "러스터캐논",
+        "power": 80
+      },
+      {
+        "name": "로켓박치기",
+        "power": 130
+      }
+    ],
+    "image": "/images/거북왕.png"
+  },
+  {
+    "id": 4,
+    "name": "피카츄",
+    "type": [
+      "전기"
+    ],
+    "moves": [
+      {
+        "name": "십만볼트",
+        "power": 90
+      },
+      {
+        "name": "번개",
+        "power": 110
+      },
+      {
+        "name": "전광석화",
+        "power": 40
+      },
+      {
+        "name": "아이언테일",
+        "power": 100
+      }
+    ],
+    "image": "/images/피카츄.png"
+  },
+  {
+    "id": 5,
+    "name": "버터플",
+    "type": [
+      "벌레",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "벌레의야단법석",
+        "power": 90
+      },
+      {
+        "name": "폭풍",
+        "power": 110
+      },
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "에어슬래시",
+        "power": 75
+      }
+    ],
+    "image": "/images/버터플.png"
+  },
+  {
+    "id": 6,
+    "name": "구구",
+    "type": [
+      "노말",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "바람일으키기",
+        "power": 40
+      },
+      {
+        "name": "전광석화",
+        "power": 40
+      },
+      {
+        "name": "날개치기",
+        "power": 60
+      },
+      {
+        "name": "에어슬래시",
+        "power": 75
+      }
+    ],
+    "image": "/images/구구.png"
+  },
+  {
+    "id": 7,
+    "name": "레디바",
+    "type": [
+      "벌레",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "은빛바람",
+        "power": 60
+      },
+      {
+        "name": "마하펀치",
+        "power": 40
+      },
+      {
+        "name": "유턴",
+        "power": 70
+      },
+      {
+        "name": "제비반환",
+        "power": 60
+      }
+    ],
+    "image": "/images/레디바.png"
+  },
+  {
+    "id": 8,
+    "name": "페이검",
+    "type": [
+      "벌레",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "크로스포이즌",
+        "power": 70
+      },
+      {
+        "name": "흡혈",
+        "power": 80
+      },
+      {
+        "name": "독찌르기",
+        "power": 80
+      },
+      {
+        "name": "나이트헤드",
+        "power": 0
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 9,
+    "name": "크로뱃",
+    "type": [
+      "독",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "에어슬래시",
+        "power": 75
+      },
+      {
+        "name": "브레이브버드",
+        "power": 120
+      },
+      {
+        "name": "흡혈",
+        "power": 80
+      }
+    ],
+    "image": "/images/크로뱃.png"
+  },
+  {
+    "id": 10,
+    "name": "초라기",
+    "type": [
+      "물",
+      "전기"
+    ],
+    "moves": [
+      {
+        "name": "방전",
+        "power": 80
+      },
+      {
+        "name": "거품광선",
+        "power": 65
+      },
+      {
+        "name": "10만볼트",
+        "power": 90
+      },
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      }
+    ],
+    "image": "/images/초라기.png"
+  },
+  {
+    "id": 11,
+    "name": "랜턴",
+    "type": [
+      "물",
+      "전기"
+    ],
+    "moves": [
+      {
+        "name": "번개",
+        "power": 110
+      },
+      {
+        "name": "파도타기",
+        "power": 90
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "방전",
+        "power": 80
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 12,
+    "name": "피츄",
+    "type": [
+      "전기"
+    ],
+    "moves": [
+      {
+        "name": "전기쇼크",
+        "power": 40
+      },
+      {
+        "name": "천사의키스",
+        "power": 0
+      },
+      {
+        "name": "나쁜음모",
+        "power": 0
+      },
+      {
+        "name": "차징",
+        "power": 0
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 13,
+    "name": "삐",
+    "type": [
+      "페어리"
+    ],
+    "moves": [
+      {
+        "name": "막치기",
+        "power": 40
+      },
+      {
+        "name": "매지컬샤인",
+        "power": 80
+      },
+      {
+        "name": "박수치기",
+        "power": 0
+      },
+      {
+        "name": "치근거리기",
+        "power": 90
+      }
+    ],
+    "image": "/images/삐.png"
+  },
+  {
+    "id": 14,
+    "name": "푸푸린",
+    "type": [
+      "노말",
+      "페어리"
+    ],
+    "moves": [
+      {
+        "name": "하이퍼보이스",
+        "power": 90
+      },
+      {
+        "name": "치근거리기",
+        "power": 90
+      },
+      {
+        "name": "차밍보이스",
+        "power": 40
+      },
+      {
+        "name": "누르기",
+        "power": 85
+      }
+    ],
+    "image": "/images/푸푸린.png"
+  },
+  {
+    "id": 15,
+    "name": "토게피",
+    "type": [
+      "페어리"
+    ],
+    "moves": [
+      {
+        "name": "매지컬샤인",
+        "power": 80
+      },
+      {
+        "name": "화염방사",
+        "power": 90
+      },
+      {
+        "name": "신통력",
+        "power": 80
+      },
+      {
+        "name": "메트로놈",
+        "power": 0
+      }
+    ],
+    "image": "/images/토게피.png"
+  },
+  {
+    "id": 16,
+    "name": "네이티",
+    "type": [
+      "에스퍼",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "나이트헤드",
+        "power": 0
+      },
+      {
+        "name": "에어슬래시",
+        "power": 75
+      },
+      {
+        "name": "드릴부리",
+        "power": 80
+      }
+    ],
+    "image": "/images/네이티.png"
+  },
+  {
+    "id": 17,
+    "name": "메리프",
+    "type": [
+      "전기"
+    ],
+    "moves": [
+      {
+        "name": "전기쇼크",
+        "power": 40
+      },
+      {
+        "name": "코튼가드",
+        "power": 0
+      },
+      {
+        "name": "방전",
+        "power": 80
+      },
+      {
+        "name": "파워젬",
+        "power": 80
+      }
+    ],
+    "image": "/images/메리프.png"
+  },
+  {
+    "id": 18,
+    "name": "보송송",
+    "type": [
+      "전기"
+    ],
+    "moves": [
+      {
+        "name": "10만볼트",
+        "power": 90
+      },
+      {
+        "name": "번개펀치",
+        "power": 75
+      },
+      {
+        "name": "파워젬",
+        "power": 80
+      },
+      {
+        "name": "차지빔",
+        "power": 50
+      }
+    ],
+    "image": "/images/보송송.png"
+  },
+  {
+    "id": 19,
+    "name": "전룡",
+    "type": [
+      "전기"
+    ],
+    "moves": [
+      {
+        "name": "번개",
+        "power": 110
+      },
+      {
+        "name": "용의파동",
+        "power": 85
+      },
+      {
+        "name": "기합구슬",
+        "power": 120
+      },
+      {
+        "name": "파워젬",
+        "power": 80
+      }
+    ],
+    "image": "/images/전룡.png"
+  },
+  {
+    "id": 20,
+    "name": "아르코",
+    "type": [
+      "풀"
+    ],
+    "moves": [
+      {
+        "name": "꽃잎댄스",
+        "power": 120
+      },
+      {
+        "name": "솔라빔",
+        "power": 120
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "기가드레인",
+        "power": 75
+      }
+    ],
+    "image": "/images/아르코.png"
+  },
+  {
+    "id": 21,
+    "name": "마릴",
+    "type": [
+      "물",
+      "페어리"
+    ],
+    "moves": [
+      {
+        "name": "아쿠아테일",
+        "power": 90
+      },
+      {
+        "name": "치근거리기",
+        "power": 90
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "거품광선",
+        "power": 65
+      }
+    ],
+    "image": "/images/마릴.png"
+  },
+  {
+    "id": 22,
+    "name": "마릴리",
+    "type": [
+      "물",
+      "페어리"
+    ],
+    "moves": [
+      {
+        "name": "치근거리기",
+        "power": 90
+      },
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      },
+      {
+        "name": "엄청난힘",
+        "power": 120
+      },
+      {
+        "name": "냉동펀치",
+        "power": 75
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 23,
+    "name": "꼬지모",
+    "type": [
+      "바위"
+    ],
+    "moves": [
+      {
+        "name": "스톤샤워",
+        "power": 75
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "기습",
+        "power": 70
+      },
+      {
+        "name": "우드해머",
+        "power": 120
+      }
+    ],
+    "image": "/images/꼬지모.png"
+  },
+  {
+    "id": 24,
+    "name": "왕구",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "기합구슬",
+        "power": 120
+      },
+      {
+        "name": "파도타기",
+        "power": 90
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 25,
+    "name": "통통코",
+    "type": [
+      "풀",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "기가드레인",
+        "power": 75
+      },
+      {
+        "name": "아크로뱃",
+        "power": 55
+      },
+      {
+        "name": "저리가루",
+        "power": 0
+      },
+      {
+        "name": "유턴",
+        "power": 70
+      }
+    ],
+    "image": "/images/통통코.png"
+  },
+  {
+    "id": 26,
+    "name": "에이팜",
+    "type": [
+      "노말"
+    ],
+    "moves": [
+      {
+        "name": "더블어택",
+        "power": 35
+      },
+      {
+        "name": "전광석화",
+        "power": 40
+      },
+      {
+        "name": "탁쳐서떨구기",
+        "power": 65
+      },
+      {
+        "name": "섀도클로",
+        "power": 70
+      }
+    ],
+    "image": "/images/에이팜.png"
+  },
+  {
+    "id": 27,
+    "name": "해너츠",
+    "type": [
+      "풀"
+    ],
+    "moves": [
+      {
+        "name": "잎날가르기",
+        "power": 55
+      },
+      {
+        "name": "기가드레인",
+        "power": 75
+      },
+      {
+        "name": "솔라빔",
+        "power": 120
+      },
+      {
+        "name": "광합성",
+        "power": 0
+      }
+    ],
+    "image": "/images/해너츠.png"
+  },
+  {
+    "id": 28,
+    "name": "해루미",
+    "type": [
+      "풀"
+    ],
+    "moves": [
+      {
+        "name": "솔라빔",
+        "power": 120
+      },
+      {
+        "name": "꽃잎댄스",
+        "power": 120
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "대지의힘",
+        "power": 90
+      }
+    ],
+    "image": "/images/해루미.png"
+  },
+  {
+    "id": 29,
+    "name": "왕자리",
+    "type": [
+      "벌레",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "벌레의야단법석",
+        "power": 90
+      },
+      {
+        "name": "에어슬래시",
+        "power": 75
+      },
+      {
+        "name": "섀도볼",
+        "power": 80
+      },
+      {
+        "name": "유턴",
+        "power": 70
+      }
+    ],
+    "image": "/images/왕자리.png"
+  },
+  {
+    "id": 30,
+    "name": "우파",
+    "type": [
+      "물",
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "파도타기",
+        "power": 90
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      }
+    ],
+    "image": "/images/우파.png"
+  },
+  {
+    "id": 31,
+    "name": "누오",
+    "type": [
+      "물",
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "열탕",
+        "power": 80
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 32,
+    "name": "에브이",
+    "type": [
+      "에스퍼"
+    ],
+    "moves": [
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "섀도볼",
+        "power": 80
+      },
+      {
+        "name": "매지컬샤인",
+        "power": 80
+      },
+      {
+        "name": "사이코쇼크",
+        "power": 80
+      }
+    ],
+    "image": "/images/에브이.png"
+  },
+  {
+    "id": 33,
+    "name": "블래키",
+    "type": [
+      "악"
+    ],
+    "moves": [
+      {
+        "name": "속임수",
+        "power": 95
+      },
+      {
+        "name": "악의파동",
+        "power": 80
+      },
+      {
+        "name": "보복",
+        "power": 50
+      },
+      {
+        "name": "전광석화",
+        "power": 40
+      }
+    ],
+    "image": "/images/블래키.png"
+  },
+  {
+    "id": 34,
+    "name": "니로우",
+    "type": [
+      "악",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "속임수",
+        "power": 95
+      },
+      {
+        "name": "브레이브버드",
+        "power": 120
+      },
+      {
+        "name": "나이트헤드",
+        "power": 0
+      },
+      {
+        "name": "열풍",
+        "power": 95
+      }
+    ],
+    "image": "/images/니로우.png"
+  },
+  {
+    "id": 35,
+    "name": "야도킹",
+    "type": [
+      "물",
+      "에스퍼"
+    ],
+    "moves": [
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "파도타기",
+        "power": 90
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "화염방사",
+        "power": 90
+      }
+    ],
+    "image": "/images/야도킹.png"
+  },
+  {
+    "id": 36,
+    "name": "무우마",
+    "type": [
+      "고스트"
+    ],
+    "moves": [
+      {
+        "name": "섀도볼",
+        "power": 80
+      },
+      {
+        "name": "파워젬",
+        "power": 80
+      },
+      {
+        "name": "매지컬샤인",
+        "power": 80
+      },
+      {
+        "name": "10만볼트",
+        "power": 90
+      }
+    ],
+    "image": "/images/무우마.png"
+  },
+  {
+    "id": 37,
+    "name": "안농",
+    "type": [
+      "에스퍼"
+    ],
+    "moves": [
+      {
+        "name": "잠재파워",
+        "power": 60
+      },
+      {
+        "name": "없음",
+        "power": 0
+      },
+      {
+        "name": "없음",
+        "power": 0
+      },
+      {
+        "name": "없음",
+        "power": 0
+      }
+    ],
+    "image": "/images/안농.png"
+  },
+  {
+    "id": 38,
+    "name": "마자용",
+    "type": [
+      "에스퍼"
+    ],
+    "moves": [
+      {
+        "name": "카운터",
+        "power": 0
+      },
+      {
+        "name": "미러코트",
+        "power": 0
+      },
+      {
+        "name": "길동무",
+        "power": 0
+      },
+      {
+        "name": "앵콜",
+        "power": 0
+      }
+    ],
+    "image": "/images/마자용.png"
+  },
+  {
+    "id": 39,
+    "name": "키링키",
+    "type": [
+      "노말",
+      "에스퍼"
+    ],
+    "moves": [
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "하이퍼보이스",
+        "power": 90
+      },
+      {
+        "name": "10만볼트",
+        "power": 90
+      },
+      {
+        "name": "에너지볼",
+        "power": 90
+      }
+    ],
+    "image": "/images/키링키.png"
+  },
+  {
+    "id": 40,
+    "name": "피콘",
+    "type": [
+      "강철"
+    ],
+    "moves": [
+      {
+        "name": "자폭",
+        "power": 200
+      },
+      {
+        "name": "벌레먹기",
+        "power": 60
+      },
+      {
+        "name": "몸통박치기",
+        "power": 40
+      },
+      {
+        "name": "암석봉인",
+        "power": 60
+      }
+    ],
+    "image": "/images/피콘.png"
+  },
+  {
+    "id": 41,
+    "name": "쏘콘",
+    "type": [
+      "벌레",
+      "강철"
+    ],
+    "moves": [
+      {
+        "name": "자이로볼",
+        "power": 0
+      },
+      {
+        "name": "대폭발",
+        "power": 250
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "벌레의야단법석",
+        "power": 90
+      }
+    ],
+    "image": "/images/쏘콘.png"
+  },
+  {
+    "id": 42,
+    "name": "노고치",
+    "type": [
+      "노말"
+    ],
+    "moves": [
+      {
+        "name": "스톤샤워",
+        "power": 75
+      },
+      {
+        "name": "누르기",
+        "power": 85
+      },
+      {
+        "name": "드릴라이너",
+        "power": 80
+      },
+      {
+        "name": "박치기",
+        "power": 70
+      }
+    ],
+    "image": "/images/노고치.png"
+  },
+  {
+    "id": 43,
+    "name": "글라이거",
+    "type": [
+      "땅",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "제비반환",
+        "power": 60
+      },
+      {
+        "name": "탁쳐서떨구기",
+        "power": 65
+      },
+      {
+        "name": "X가위",
+        "power": 80
+      }
+    ],
+    "image": "/images/글라이거.png"
+  },
+  {
+    "id": 44,
+    "name": "강철톤",
+    "type": [
+      "강철",
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "아이언헤드",
+        "power": 80
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "스톤샤워",
+        "power": 75
+      },
+      {
+        "name": "번개엄니",
+        "power": 65
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 45,
+    "name": "블루",
+    "type": [
+      "페어리"
+    ],
+    "moves": [
+      {
+        "name": "치근거리기",
+        "power": 90
+      },
+      {
+        "name": "물기",
+        "power": 60
+      },
+      {
+        "name": "치근거리기",
+        "power": 90
+      },
+      {
+        "name": "깨물어부수기",
+        "power": 80
+      }
+    ],
+    "image": "/images/블루.png"
+  },
+  {
+    "id": 46,
+    "name": "그랑블루",
+    "type": [
+      "페어리"
+    ],
+    "moves": [
+      {
+        "name": "치근거리기",
+        "power": 90
+      },
+      {
+        "name": "엄청난힘",
+        "power": 120
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "번개펀치",
+        "power": 75
+      }
+    ],
+    "image": "/images/그랑블루.png"
+  },
+  {
+    "id": 47,
+    "name": "침바루",
+    "type": [
+      "물",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "아쿠아테일",
+        "power": 90
+      },
+      {
+        "name": "독찌르기",
+        "power": 80
+      },
+      {
+        "name": "대폭발",
+        "power": 250
+      },
+      {
+        "name": "바늘미사일",
+        "power": 25
+      }
+    ],
+    "image": "/images/침바루.png"
+  },
+  {
+    "id": 48,
+    "name": "핫삼",
+    "type": [
+      "벌레",
+      "강철"
+    ],
+    "moves": [
+      {
+        "name": "불릿펀치",
+        "power": 40
+      },
+      {
+        "name": "시저크로스",
+        "power": 80
+      },
+      {
+        "name": "엄청난힘",
+        "power": 120
+      },
+      {
+        "name": "탁쳐서떨구기",
+        "power": 65
+      }
+    ],
+    "image": "/images/핫삼.png"
+  },
+  {
+    "id": 49,
+    "name": "단단지",
+    "type": [
+      "벌레",
+      "바위"
+    ],
+    "moves": [
+      {
+        "name": "파워트릭",
+        "power": 0
+      },
+      {
+        "name": "스톤샤워",
+        "power": 75
+      },
+      {
+        "name": "엉겨붙기",
+        "power": 20
+      },
+      {
+        "name": "지진",
+        "power": 100
+      }
+    ],
+    "image": "/images/단단지.png"
+  },
+  {
+    "id": 50,
+    "name": "헤라크로스",
+    "type": [
+      "벌레",
+      "격투"
+    ],
+    "moves": [
+      {
+        "name": "메가폰",
+        "power": 120
+      },
+      {
+        "name": "인파이트",
+        "power": 120
+      },
+      {
+        "name": "스톤샤워",
+        "power": 75
+      },
+      {
+        "name": "탁쳐서떨구기",
+        "power": 65
+      }
+    ],
+    "image": "/images/헤라크로스.png"
+  },
+  {
+    "id": 51,
+    "name": "포푸니",
+    "type": [
+      "악",
+      "얼음"
+    ],
+    "moves": [
+      {
+        "name": "고드름떨구기",
+        "power": 85
+      },
+      {
+        "name": "깜짝베기",
+        "power": 70
+      },
+      {
+        "name": "얼음뭉치",
+        "power": 40
+      },
+      {
+        "name": "안력",
+        "power": 60
+      }
+    ],
+    "image": "/images/포푸니.png"
+  },
+  {
+    "id": 52,
+    "name": "깜지곰",
+    "type": [
+      "노말"
+    ],
+    "moves": [
+      {
+        "name": "치근거리기",
+        "power": 90
+      },
+      {
+        "name": "베어가르기",
+        "power": 70
+      },
+      {
+        "name": "누르기",
+        "power": 85
+      },
+      {
+        "name": "지진",
+        "power": 100
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 53,
+    "name": "링곰",
+    "type": [
+      "노말"
+    ],
+    "moves": [
+      {
+        "name": "기가임팩트",
+        "power": 150
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "인파이트",
+        "power": 120
+      },
+      {
+        "name": "치근거리기",
+        "power": 90
+      }
+    ],
+    "image": "/images/링곰.png"
+  },
+  {
+    "id": 54,
+    "name": "마그마그",
+    "type": [
+      "불꽃"
+    ],
+    "moves": [
+      {
+        "name": "화염방사",
+        "power": 90
+      },
+      {
+        "name": "대지의힘",
+        "power": 90
+      },
+      {
+        "name": "스톤샤워",
+        "power": 75
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      }
+    ],
+    "image": "/images/마그마그.png"
+  },
+  {
+    "id": 55,
+    "name": "마그카르고",
+    "type": [
+      "불꽃",
+      "바위"
+    ],
+    "moves": [
+      {
+        "name": "오버히트",
+        "power": 130
+      },
+      {
+        "name": "파워젬",
+        "power": 80
+      },
+      {
+        "name": "대지의힘",
+        "power": 90
+      },
+      {
+        "name": "화염방사",
+        "power": 90
+      }
+    ],
+    "image": "/images/마그카르고.png"
+  },
+  {
+    "id": 56,
+    "name": "꾸꾸리",
+    "type": [
+      "얼음",
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "눈사태",
+        "power": 60
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "얼음뭉치",
+        "power": 40
+      },
+      {
+        "name": "진흙뿌리기",
+        "power": 20
+      }
+    ],
+    "image": "/images/꾸꾸리.png"
+  },
+  {
+    "id": 57,
+    "name": "메꾸리",
+    "type": [
+      "얼음",
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "고드름떨구기",
+        "power": 85
+      },
+      {
+        "name": "스톤샤워",
+        "power": 75
+      },
+      {
+        "name": "엄청난힘",
+        "power": 120
+      }
+    ],
+    "image": "/images/메꾸리.png"
+  },
+  {
+    "id": 58,
+    "name": "코산호",
+    "type": [
+      "물",
+      "바위"
+    ],
+    "moves": [
+      {
+        "name": "파도타기",
+        "power": 90
+      },
+      {
+        "name": "파워젬",
+        "power": 80
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "대지의힘",
+        "power": 90
+      }
+    ],
+    "image": "/images/코산호.png"
+  },
+  {
+    "id": 59,
+    "name": "총어",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "차지빔",
+        "power": 50
+      }
+    ],
+    "image": "/images/총어.png"
+  },
+  {
+    "id": 60,
+    "name": "대포무노",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "대포무노포",
+        "power": 65
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "화염방사",
+        "power": 90
+      },
+      {
+        "name": "에너지볼",
+        "power": 90
+      }
+    ],
+    "image": "/images/대포무노.png"
+  },
+  {
+    "id": 61,
+    "name": "딜리버드",
+    "type": [
+      "얼음",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "프리즈드라이",
+        "power": 70
+      },
+      {
+        "name": "에어슬래시",
+        "power": 75
+      },
+      {
+        "name": "드릴부리",
+        "power": 80
+      },
+      {
+        "name": "선물",
+        "power": 0
+      }
+    ],
+    "image": "/images/딜리버드.png"
+  },
+  {
+    "id": 62,
+    "name": "무장조",
+    "type": [
+      "강철",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "브레이브버드",
+        "power": 120
+      },
+      {
+        "name": "러스터캐논",
+        "power": 80
+      },
+      {
+        "name": "보디프레스",
+        "power": 80
+      },
+      {
+        "name": "회전부리",
+        "power": 80
+      }
+    ],
+    "image": "/images/무장조.png"
+  },
+  {
+    "id": 63,
+    "name": "델빌",
+    "type": [
+      "악",
+      "불꽃"
+    ],
+    "moves": [
+      {
+        "name": "화염방사",
+        "power": 90
+      },
+      {
+        "name": "악의파동",
+        "power": 80
+      },
+      {
+        "name": "스모그",
+        "power": 30
+      },
+      {
+        "name": "물기",
+        "power": 60
+      }
+    ],
+    "image": "/images/델빌.png"
+  },
+  {
+    "id": 64,
+    "name": "헬가",
+    "type": [
+      "악",
+      "불꽃"
+    ],
+    "moves": [
+      {
+        "name": "불대문자",
+        "power": 110
+      },
+      {
+        "name": "악의파동",
+        "power": 80
+      },
+      {
+        "name": "오버히트",
+        "power": 130
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 65,
+    "name": "킹드라",
+    "type": [
+      "물",
+      "드래곤"
+    ],
+    "moves": [
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      },
+      {
+        "name": "용의파동",
+        "power": 85
+      },
+      {
+        "name": "용성군",
+        "power": 130
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 66,
+    "name": "코코리",
+    "type": [
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "구르기",
+        "power": 30
+      },
+      {
+        "name": "탁쳐서떨구기",
+        "power": 65
+      },
+      {
+        "name": "치근거리기",
+        "power": 90
+      }
+    ],
+    "image": "/images/코코리.png"
+  },
+  {
+    "id": 67,
+    "name": "코리갑",
+    "type": [
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "치근거리기",
+        "power": 90
+      },
+      {
+        "name": "스톤샤워",
+        "power": 75
+      },
+      {
+        "name": "엄청난힘",
+        "power": 120
+      }
+    ],
+    "image": "/images/코리갑.png"
+  },
+  {
+    "id": 68,
+    "name": "폴리곤2",
+    "type": [
+      "노말"
+    ],
+    "moves": [
+      {
+        "name": "트라이어택",
+        "power": 80
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "10만볼트",
+        "power": 90
+      },
+      {
+        "name": "섀도볼",
+        "power": 80
+      }
+    ],
+    "image": "/images/폴리곤2.png"
+  },
+  {
+    "id": 69,
+    "name": "노라키",
+    "type": [
+      "노말"
+    ],
+    "moves": [
+      {
+        "name": "짓밟기",
+        "power": 65
+      },
+      {
+        "name": "사념의박치기",
+        "power": 80
+      },
+      {
+        "name": "10만볼트",
+        "power": 90
+      },
+      {
+        "name": "에너지볼",
+        "power": 90
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 70,
+    "name": "루브도",
+    "type": [
+      "노말"
+    ],
+    "moves": [
+      {
+        "name": "스케치",
+        "power": 0
+      },
+      {
+        "name": "없음",
+        "power": 0
+      },
+      {
+        "name": "없음",
+        "power": 0
+      },
+      {
+        "name": "없음",
+        "power": 0
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 71,
+    "name": "배루키",
+    "type": [
+      "격투"
+    ],
+    "moves": [
+      {
+        "name": "무릎차기",
+        "power": 130
+      },
+      {
+        "name": "마하펀치",
+        "power": 40
+      },
+      {
+        "name": "번개펀치",
+        "power": 75
+      },
+      {
+        "name": "스톤샤워",
+        "power": 75
+      }
+    ],
+    "image": "/images/배루키.png"
+  },
+  {
+    "id": 72,
+    "name": "카포에라",
+    "type": [
+      "격투"
+    ],
+    "moves": [
+      {
+        "name": "인파이트",
+        "power": 120
+      },
+      {
+        "name": "트리플킥",
+        "power": 10
+      },
+      {
+        "name": "제비반환",
+        "power": 60
+      },
+      {
+        "name": "기습",
+        "power": 70
+      }
+    ],
+    "image": "/images/카포에라.png"
+  },
+  {
+    "id": 73,
+    "name": "뽀뽀라",
+    "type": [
+      "얼음",
+      "에스퍼"
+    ],
+    "moves": [
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "섀도볼",
+        "power": 80
+      },
+      {
+        "name": "매지컬샤인",
+        "power": 80
+      }
+    ],
+    "image": "/images/뽀뽀라.png"
+  },
+  {
+    "id": 74,
+    "name": "에레키드",
+    "type": [
+      "전기"
+    ],
+    "moves": [
+      {
+        "name": "10만볼트",
+        "power": 90
+      },
+      {
+        "name": "번개펀치",
+        "power": 75
+      },
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "크로스촙",
+        "power": 100
+      }
+    ],
+    "image": "/images/에레키드.png"
+  },
+  {
+    "id": 75,
+    "name": "마그비",
+    "type": [
+      "불꽃"
+    ],
+    "moves": [
+      {
+        "name": "화염방사",
+        "power": 90
+      },
+      {
+        "name": "불꽃펀치",
+        "power": 75
+      },
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "마하펀치",
+        "power": 40
+      }
+    ],
+    "image": "/images/마그비.png"
+  },
+  {
+    "id": 76,
+    "name": "밀탱크",
+    "type": [
+      "노말"
+    ],
+    "moves": [
+      {
+        "name": "짓밟기",
+        "power": 65
+      },
+      {
+        "name": "구르기",
+        "power": 30
+      },
+      {
+        "name": "우유마시기",
+        "power": 0
+      },
+      {
+        "name": "치근거리기",
+        "power": 90
+      }
+    ],
+    "image": "/images/밀탱크.png"
+  },
+  {
+    "id": 77,
+    "name": "해피너스",
+    "type": [
+      "노말"
+    ],
+    "moves": [
+      {
+        "name": "하이퍼보이스",
+        "power": 90
+      },
+      {
+        "name": "섀도볼",
+        "power": 80
+      },
+      {
+        "name": "화염방사",
+        "power": 90
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      }
+    ],
+    "image": "/images/해피너스.png"
+  },
+  {
+    "id": 78,
+    "name": "라이코",
+    "type": [
+      "전기"
+    ],
+    "moves": [
+      {
+        "name": "번개",
+        "power": 110
+      },
+      {
+        "name": "10만볼트",
+        "power": 90
+      },
+      {
+        "name": "신통력",
+        "power": 80
+      },
+      {
+        "name": "섀도볼",
+        "power": 80
+      }
+    ],
+    "image": "/images/라이코.png"
+  },
+  {
+    "id": 79,
+    "name": "앤테이",
+    "type": [
+      "불꽃"
+    ],
+    "moves": [
+      {
+        "name": "성스러운불꽃",
+        "power": 100
+      },
+      {
+        "name": "불꽃니",
+        "power": 65
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "스톤샤워",
+        "power": 75
+      }
+    ],
+    "image": "/images/앤테이.png"
+  },
+  {
+    "id": 80,
+    "name": "스이쿤",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      },
+      {
+        "name": "열탕",
+        "power": 80
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "신통력",
+        "power": 80
+      }
+    ],
+    "image": "/images/스이쿤.png"
+  },
+  {
+    "id": 81,
+    "name": "애버라스",
+    "type": [
+      "바위",
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "스톤샤워",
+        "power": 75
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "물기",
+        "power": 60
+      },
+      {
+        "name": "깨물어부수기",
+        "power": 80
+      }
+    ],
+    "image": "/images/애버라스.png"
+  },
+  {
+    "id": 82,
+    "name": "데기라스",
+    "type": [
+      "바위",
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "스톤샤워",
+        "power": 75
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "깜짝베기",
+        "power": 70
+      },
+      {
+        "name": "엄청난힘",
+        "power": 120
+      }
+    ],
+    "image": "/images/데기라스.png"
+  },
+  {
+    "id": 83,
+    "name": "마기라스",
+    "type": [
+      "바위",
+      "악"
+    ],
+    "moves": [
+      {
+        "name": "스톤에지",
+        "power": 100
+      },
+      {
+        "name": "깨물어부수기",
+        "power": 80
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "냉동펀치",
+        "power": 75
+      }
+    ],
+    "image": "/images/마기라스.png"
+  },
+  {
+    "id": 84,
+    "name": "루기아",
+    "type": [
+      "에스퍼",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "에어로블라스트",
+        "power": 100
+      },
+      {
+        "name": "신통력",
+        "power": 80
+      },
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      }
+    ],
+    "image": "/images/루기아.png"
+  },
+  {
+    "id": 85,
+    "name": "칠색조",
+    "type": [
+      "불꽃",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "성스러운불꽃",
+        "power": 100
+      },
+      {
+        "name": "브레이브버드",
+        "power": 120
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "기상변화",
+        "power": 0
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 86,
+    "name": "세레비",
+    "type": [
+      "에스퍼",
+      "풀"
+    ],
+    "moves": [
+      {
+        "name": "리프스톰",
+        "power": 130
+      },
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "대지의힘",
+        "power": 90
+      },
+      {
+        "name": "유턴",
+        "power": 70
+      }
+    ],
+    "image": "/images/세레비.png"
+  },
+  {
+    "id": 87,
+    "name": "아라리",
+    "type": [
+      "풀",
+      "에스퍼"
+    ],
+    "moves": [
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "기가드레인",
+        "power": 75
+      },
+      {
+        "name": "수면가루",
+        "power": 0
+      },
+      {
+        "name": "태양광선",
+        "power": 120
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 88,
+    "name": "나시",
+    "type": [
+      "풀",
+      "에스퍼"
+    ],
+    "moves": [
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "리프스톰",
+        "power": 130
+      },
+      {
+        "name": "기가드레인",
+        "power": 75
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      }
+    ],
+    "image": "/images/나시.png"
+  },
+  {
+    "id": 89,
+    "name": "탕구리",
+    "type": [
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "뼈다귀부메랑",
+        "power": 50
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "탁쳐서떨구기",
+        "power": 65
+      },
+      {
+        "name": "스톤샤워",
+        "power": 75
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 90,
+    "name": "텅구리",
+    "type": [
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "뼈다귀부메랑",
+        "power": 50
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "스톤에지",
+        "power": 100
+      },
+      {
+        "name": "불꽃펀치",
+        "power": 75
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 91,
+    "name": "발챙이",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "거품광선",
+        "power": 65
+      },
+      {
+        "name": "비바라기",
+        "power": 0
+      },
+      {
+        "name": "최면술",
+        "power": 0
+      },
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      }
+    ],
+    "image": "/images/발챙이.png"
+  },
+  {
+    "id": 92,
+    "name": "수륙챙이",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "폭포오르기",
+        "power": 80
+      },
+      {
+        "name": "냉동펀치",
+        "power": 75
+      },
+      {
+        "name": "누르기",
+        "power": 85
+      },
+      {
+        "name": "파도타기",
+        "power": 90
+      }
+    ],
+    "image": "/images/수륙챙이.png"
+  },
+  {
+    "id": 93,
+    "name": "강챙이",
+    "type": [
+      "물",
+      "격투"
+    ],
+    "moves": [
+      {
+        "name": "폭발펀치",
+        "power": 100
+      },
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      }
+    ],
+    "image": "/images/강챙이.png"
+  },
+  {
+    "id": 94,
+    "name": "꼬마돌",
+    "type": [
+      "바위",
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "스톤샤워",
+        "power": 75
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "구르기",
+        "power": 30
+      },
+      {
+        "name": "자폭",
+        "power": 200
+      }
+    ],
+    "image": "/images/꼬마돌.png"
+  },
+  {
+    "id": 95,
+    "name": "데구리",
+    "type": [
+      "바위",
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "스톤에지",
+        "power": 100
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "대폭발",
+        "power": 250
+      },
+      {
+        "name": "번개펀치",
+        "power": 75
+      }
+    ],
+    "image": "/images/데구리.png"
+  },
+  {
+    "id": 96,
+    "name": "딱구리",
+    "type": [
+      "바위",
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "스톤에지",
+        "power": 100
+      },
+      {
+        "name": "엄청난힘",
+        "power": 120
+      },
+      {
+        "name": "헤비봄버",
+        "power": 0
+      }
+    ],
+    "image": "/images/딱구리.png"
+  },
+  {
+    "id": 97,
+    "name": "니드런♀",
+    "type": [
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "독침",
+        "power": 15
+      },
+      {
+        "name": "물기",
+        "power": 60
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      }
+    ],
+    "image": "/images/니드런♀.png"
+  },
+  {
+    "id": 98,
+    "name": "니드리나",
+    "type": [
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "독찌르기",
+        "power": 80
+      },
+      {
+        "name": "깨물어부수기",
+        "power": 80
+      },
+      {
+        "name": "10만볼트",
+        "power": 90
+      },
+      {
+        "name": "화염방사",
+        "power": 90
+      }
+    ],
+    "image": "/images/니드리나.png"
+  },
+  {
+    "id": 99,
+    "name": "니드퀸",
+    "type": [
+      "독",
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "대지의힘",
+        "power": 90
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "엄청난힘",
+        "power": 120
+      }
+    ],
+    "image": "/images/니드퀸.png"
+  },
+  {
+    "id": 100,
+    "name": "니드런♂",
+    "type": [
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "독침",
+        "power": 15
+      },
+      {
+        "name": "두번치기",
+        "power": 30
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "드릴라이너",
+        "power": 80
+      }
+    ],
+    "image": "/images/니드런♂.png"
+  },
+  {
+    "id": 101,
+    "name": "니드리노",
+    "type": [
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "독찌르기",
+        "power": 80
+      },
+      {
+        "name": "뿔드릴",
+        "power": 0
+      },
+      {
+        "name": "섀도클로",
+        "power": 70
+      },
+      {
+        "name": "지진",
+        "power": 100
+      }
+    ],
+    "image": "/images/니드리노.png"
+  },
+  {
+    "id": 102,
+    "name": "니드킹",
+    "type": [
+      "독",
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "대지의힘",
+        "power": 90
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "화염방사",
+        "power": 90
+      },
+      {
+        "name": "10만볼트",
+        "power": 90
+      }
+    ],
+    "image": "/images/니드킹.png"
+  },
+  {
+    "id": 103,
+    "name": "잉어킹",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "튀어오르기",
+        "power": 0
+      },
+      {
+        "name": "몸통박치기",
+        "power": 40
+      },
+      {
+        "name": "버티기",
+        "power": 0
+      },
+      {
+        "name": "없음",
+        "power": 0
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 104,
+    "name": "게라도스",
+    "type": [
+      "물",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      },
+      {
+        "name": "폭포오르기",
+        "power": 80
+      },
+      {
+        "name": "깨물어부수기",
+        "power": 80
+      },
+      {
+        "name": "지진",
+        "power": 100
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 105,
+    "name": "식스테일",
+    "type": [
+      "불꽃"
+    ],
+    "moves": [
+      {
+        "name": "화염방사",
+        "power": 90
+      },
+      {
+        "name": "전광석화",
+        "power": 40
+      },
+      {
+        "name": "에너지볼",
+        "power": 90
+      },
+      {
+        "name": "신통력",
+        "power": 80
+      }
+    ],
+    "image": "/images/식스테일.png"
+  },
+  {
+    "id": 106,
+    "name": "나인테일",
+    "type": [
+      "불꽃"
+    ],
+    "moves": [
+      {
+        "name": "불대문자",
+        "power": 110
+      },
+      {
+        "name": "에너지볼",
+        "power": 90
+      },
+      {
+        "name": "악의파동",
+        "power": 80
+      },
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      }
+    ],
+    "image": "/images/나인테일.png"
+  },
+  {
+    "id": 107,
+    "name": "디그다",
+    "type": [
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "구멍파기",
+        "power": 80
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "스톤샤워",
+        "power": 75
+      },
+      {
+        "name": "기습",
+        "power": 70
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 108,
+    "name": "닥트리오",
+    "type": [
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "스톤에지",
+        "power": 100
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "깜짝베기",
+        "power": 70
+      }
+    ],
+    "image": "/images/닥트리오.png"
+  },
+  {
+    "id": 109,
+    "name": "나옹",
+    "type": [
+      "노말"
+    ],
+    "moves": [
+      {
+        "name": "속이다",
+        "power": 40
+      },
+      {
+        "name": "고양이돈받기",
+        "power": 40
+      },
+      {
+        "name": "깜짝베기",
+        "power": 70
+      },
+      {
+        "name": "플레이어",
+        "power": 0
+      }
+    ],
+    "image": "/images/나옹.png"
+  },
+  {
+    "id": 110,
+    "name": "페르시온",
+    "type": [
+      "노말"
+    ],
+    "moves": [
+      {
+        "name": "베어가르기",
+        "power": 70
+      },
+      {
+        "name": "파워젬",
+        "power": 80
+      },
+      {
+        "name": "섀도클로",
+        "power": 70
+      },
+      {
+        "name": "하이퍼보이스",
+        "power": 90
+      }
+    ],
+    "image": "/images/페르시온.png"
+  },
+  {
+    "id": 111,
+    "name": "고라파덕",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "파도타기",
+        "power": 90
+      },
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "사념의박치기",
+        "power": 80
+      }
+    ],
+    "image": "/images/고라파덕.png"
+  },
+  {
+    "id": 112,
+    "name": "골덕",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      },
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "기합구슬",
+        "power": 120
+      }
+    ],
+    "image": "/images/골덕.png"
+  },
+  {
+    "id": 113,
+    "name": "가디",
+    "type": [
+      "불꽃"
+    ],
+    "moves": [
+      {
+        "name": "화염방사",
+        "power": 90
+      },
+      {
+        "name": "신속",
+        "power": 80
+      },
+      {
+        "name": "깨물어부수기",
+        "power": 80
+      },
+      {
+        "name": "와일드볼트",
+        "power": 90
+      }
+    ],
+    "image": "/images/가디.png"
+  },
+  {
+    "id": 114,
+    "name": "윈디",
+    "type": [
+      "불꽃"
+    ],
+    "moves": [
+      {
+        "name": "플레어드라이브",
+        "power": 120
+      },
+      {
+        "name": "신속",
+        "power": 80
+      },
+      {
+        "name": "와일드볼트",
+        "power": 90
+      },
+      {
+        "name": "지진",
+        "power": 100
+      }
+    ],
+    "image": "/images/윈디.png"
+  },
+  {
+    "id": 115,
+    "name": "캐이시",
+    "type": [
+      "에스퍼"
+    ],
+    "moves": [
+      {
+        "name": "순간이동",
+        "power": 0
+      },
+      {
+        "name": "섀도볼",
+        "power": 80
+      },
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "에너지볼",
+        "power": 90
+      }
+    ],
+    "image": "/images/캐이시.png"
+  },
+  {
+    "id": 116,
+    "name": "윤겔라",
+    "type": [
+      "에스퍼"
+    ],
+    "moves": [
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "섀도볼",
+        "power": 80
+      },
+      {
+        "name": "기합구슬",
+        "power": 120
+      },
+      {
+        "name": "10만볼트",
+        "power": 90
+      }
+    ],
+    "image": "/images/윤겔라.png"
+  },
+  {
+    "id": 117,
+    "name": "후딘",
+    "type": [
+      "에스퍼"
+    ],
+    "moves": [
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "미래예지",
+        "power": 120
+      },
+      {
+        "name": "기합구슬",
+        "power": 120
+      },
+      {
+        "name": "섀도볼",
+        "power": 80
+      }
+    ],
+    "image": "/images/후딘.png"
+  },
+  {
+    "id": 118,
+    "name": "알통몬",
+    "type": [
+      "격투"
+    ],
+    "moves": [
+      {
+        "name": "안력",
+        "power": 60
+      },
+      {
+        "name": "두번치기",
+        "power": 30
+      },
+      {
+        "name": "스톤샤워",
+        "power": 75
+      },
+      {
+        "name": "불꽃펀치",
+        "power": 75
+      }
+    ],
+    "image": "/images/알통몬.png"
+  },
+  {
+    "id": 119,
+    "name": "근육몬",
+    "type": [
+      "격투"
+    ],
+    "moves": [
+      {
+        "name": "크로스촙",
+        "power": 100
+      },
+      {
+        "name": "번개펀치",
+        "power": 75
+      },
+      {
+        "name": "냉동펀치",
+        "power": 75
+      },
+      {
+        "name": "지진",
+        "power": 100
+      }
+    ],
+    "image": "/images/근육몬.png"
+  },
+  {
+    "id": 120,
+    "name": "괴력몬",
+    "type": [
+      "격투"
+    ],
+    "moves": [
+      {
+        "name": "폭발펀치",
+        "power": 100
+      },
+      {
+        "name": "스톤에지",
+        "power": 100
+      },
+      {
+        "name": "탁쳐서떨구기",
+        "power": 65
+      },
+      {
+        "name": "인파이트",
+        "power": 120
+      }
+    ],
+    "image": "/images/괴력몬.png"
+  },
+  {
+    "id": 121,
+    "name": "모래두지",
+    "type": [
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "구멍파기",
+        "power": 80
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "깜짝베기",
+        "power": 70
+      },
+      {
+        "name": "스톤샤워",
+        "power": 75
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 122,
+    "name": "고지",
+    "type": [
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "스톤에지",
+        "power": 100
+      },
+      {
+        "name": "시저크로스",
+        "power": 80
+      },
+      {
+        "name": "자이로볼",
+        "power": 0
+      }
+    ],
+    "image": "/images/고지.png"
+  },
+  {
+    "id": 123,
+    "name": "포니타",
+    "type": [
+      "불꽃"
+    ],
+    "moves": [
+      {
+        "name": "화염방사",
+        "power": 90
+      },
+      {
+        "name": "니트로차지",
+        "power": 50
+      },
+      {
+        "name": "와일드볼트",
+        "power": 90
+      },
+      {
+        "name": "전광석화",
+        "power": 40
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 124,
+    "name": "날쌩마",
+    "type": [
+      "불꽃"
+    ],
+    "moves": [
+      {
+        "name": "플레어드라이브",
+        "power": 120
+      },
+      {
+        "name": "메가혼",
+        "power": 120
+      },
+      {
+        "name": "와일드볼트",
+        "power": 90
+      },
+      {
+        "name": "지진",
+        "power": 100
+      }
+    ],
+    "image": "/images/날쌩마.png"
+  },
+  {
+    "id": 125,
+    "name": "코일",
+    "type": [
+      "전기",
+      "강철"
+    ],
+    "moves": [
+      {
+        "name": "10만볼트",
+        "power": 90
+      },
+      {
+        "name": "러스터캐논",
+        "power": 80
+      },
+      {
+        "name": "방전",
+        "power": 80
+      },
+      {
+        "name": "전기자석파",
+        "power": 0
+      }
+    ],
+    "image": "/images/코일.png"
+  },
+  {
+    "id": 126,
+    "name": "레어코일",
+    "type": [
+      "전기",
+      "강철"
+    ],
+    "moves": [
+      {
+        "name": "번개",
+        "power": 110
+      },
+      {
+        "name": "러스터캐논",
+        "power": 80
+      },
+      {
+        "name": "트라이어택",
+        "power": 80
+      },
+      {
+        "name": "매지컬샤인",
+        "power": 80
+      }
+    ],
+    "image": "/images/레어코일.png"
+  },
+  {
+    "id": 127,
+    "name": "파이리",
+    "type": [
+      "불꽃"
+    ],
+    "moves": [
+      {
+        "name": "불꽃세례",
+        "power": 40
+      },
+      {
+        "name": "화염방사",
+        "power": 90
+      },
+      {
+        "name": "베어가르기",
+        "power": 70
+      },
+      {
+        "name": "드래곤클로",
+        "power": 80
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 128,
+    "name": "리자드",
+    "type": [
+      "불꽃"
+    ],
+    "moves": [
+      {
+        "name": "화염방사",
+        "power": 90
+      },
+      {
+        "name": "불꽃펀치",
+        "power": 75
+      },
+      {
+        "name": "깨물어부수기",
+        "power": 80
+      },
+      {
+        "name": "드래곤다이브",
+        "power": 100
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 129,
+    "name": "꼬부기",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "물대포",
+        "power": 40
+      },
+      {
+        "name": "거품광선",
+        "power": 65
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "물기",
+        "power": 60
+      }
+    ],
+    "image": "/images/꼬부기.png"
+  },
+  {
+    "id": 130,
+    "name": "어니부기",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "파도타기",
+        "power": 90
+      },
+      {
+        "name": "냉동펀치",
+        "power": 75
+      },
+      {
+        "name": "고속스핀",
+        "power": 50
+      },
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      }
+    ],
+    "image": "/images/어니부기.png"
+  },
+  {
+    "id": 131,
+    "name": "뚜벅초",
+    "type": [
+      "풀",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "흡수",
+        "power": 20
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "기가드레인",
+        "power": 75
+      },
+      {
+        "name": "달의불빛",
+        "power": 0
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 132,
+    "name": "냄새꼬",
+    "type": [
+      "풀",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "에너지볼",
+        "power": 90
+      },
+      {
+        "name": "오물오물해",
+        "power": 65
+      },
+      {
+        "name": "저리가루",
+        "power": 0
+      },
+      {
+        "name": "문포스",
+        "power": 95
+      }
+    ],
+    "image": "/images/냄새꼬.png"
+  },
+  {
+    "id": 133,
+    "name": "라플레시아",
+    "type": [
+      "풀",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "솔라빔",
+        "power": 120
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "꽃잎댄스",
+        "power": 120
+      },
+      {
+        "name": "문포스",
+        "power": 95
+      }
+    ],
+    "image": "/images/라플레시아.png"
+  },
+  {
+    "id": 134,
+    "name": "파라스",
+    "type": [
+      "벌레",
+      "풀"
+    ],
+    "moves": [
+      {
+        "name": "흡혈",
+        "power": 80
+      },
+      {
+        "name": "시저크로스",
+        "power": 80
+      },
+      {
+        "name": "씨폭탄",
+        "power": 80
+      },
+      {
+        "name": "버섯포자",
+        "power": 0
+      }
+    ],
+    "image": "/images/파라스.png"
+  },
+  {
+    "id": 135,
+    "name": "파라섹트",
+    "type": [
+      "벌레",
+      "풀"
+    ],
+    "moves": [
+      {
+        "name": "X가위",
+        "power": 80
+      },
+      {
+        "name": "씨폭탄",
+        "power": 80
+      },
+      {
+        "name": "깜짝베기",
+        "power": 70
+      },
+      {
+        "name": "기가드레인",
+        "power": 75
+      }
+    ],
+    "image": "/images/파라섹트.png"
+  },
+  {
+    "id": 136,
+    "name": "이브이",
+    "type": [
+      "노말"
+    ],
+    "moves": [
+      {
+        "name": "전광석화",
+        "power": 40
+      },
+      {
+        "name": "물기",
+        "power": 60
+      },
+      {
+        "name": "이판사판태클",
+        "power": 120
+      },
+      {
+        "name": "도우미",
+        "power": 0
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 137,
+    "name": "샤미드",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "탁류",
+        "power": 90
+      },
+      {
+        "name": "섀도볼",
+        "power": 80
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 138,
+    "name": "쥬피썬더",
+    "type": [
+      "전기"
+    ],
+    "moves": [
+      {
+        "name": "10만볼트",
+        "power": 90
+      },
+      {
+        "name": "번개",
+        "power": 110
+      },
+      {
+        "name": "섀도볼",
+        "power": 80
+      },
+      {
+        "name": "볼트체인지",
+        "power": 70
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 139,
+    "name": "부스터",
+    "type": [
+      "불꽃"
+    ],
+    "moves": [
+      {
+        "name": "플레어드라이브",
+        "power": 120
+      },
+      {
+        "name": "불꽃니",
+        "power": 65
+      },
+      {
+        "name": "엄청난힘",
+        "power": 120
+      },
+      {
+        "name": "섀도볼",
+        "power": 80
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 140,
+    "name": "잠만보",
+    "type": [
+      "노말"
+    ],
+    "moves": [
+      {
+        "name": "누르기",
+        "power": 85
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "헤비봄버",
+        "power": 0
+      },
+      {
+        "name": "역린",
+        "power": 120
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 141,
+    "name": "야돈",
+    "type": [
+      "물",
+      "에스퍼"
+    ],
+    "moves": [
+      {
+        "name": "파도타기",
+        "power": 90
+      },
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "화염방사",
+        "power": 90
+      }
+    ],
+    "image": "/images/야돈.png"
+  },
+  {
+    "id": 142,
+    "name": "야도란",
+    "type": [
+      "물",
+      "에스퍼"
+    ],
+    "moves": [
+      {
+        "name": "열탕",
+        "power": 80
+      },
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "기합구슬",
+        "power": 120
+      }
+    ],
+    "image": "/images/야도란.png"
+  },
+  {
+    "id": 143,
+    "name": "꼬마돌",
+    "type": [
+      "바위",
+      "땅"
+    ],
+    "moves": [
+      {
+        "name": "스톤샤워",
+        "power": 75
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "구르기",
+        "power": 30
+      },
+      {
+        "name": "암석봉인",
+        "power": 60
+      }
+    ],
+    "image": "/images/꼬마돌.png"
+  },
+  {
+    "id": 144,
+    "name": "메타몽",
+    "type": [
+      "노말"
+    ],
+    "moves": [
+      {
+        "name": "변신",
+        "power": 0
+      },
+      {
+        "name": "없음",
+        "power": 0
+      },
+      {
+        "name": "없음",
+        "power": 0
+      },
+      {
+        "name": "없음",
+        "power": 0
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 145,
+    "name": "프리져",
+    "type": [
+      "얼음",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "폭풍",
+        "power": 110
+      },
+      {
+        "name": "유턴",
+        "power": 70
+      },
+      {
+        "name": "절대영도",
+        "power": 0
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 146,
+    "name": "썬더",
+    "type": [
+      "전기",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "10만볼트",
+        "power": 90
+      },
+      {
+        "name": "폭풍",
+        "power": 110
+      },
+      {
+        "name": "볼트체인지",
+        "power": 70
+      },
+      {
+        "name": "열풍",
+        "power": 95
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 147,
+    "name": "파이어",
+    "type": [
+      "불꽃",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "불대문자",
+        "power": 110
+      },
+      {
+        "name": "폭풍",
+        "power": 110
+      },
+      {
+        "name": "오버히트",
+        "power": 130
+      },
+      {
+        "name": "유턴",
+        "power": 70
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 148,
+    "name": "미뇽",
+    "type": [
+      "드래곤"
+    ],
+    "moves": [
+      {
+        "name": "용의파동",
+        "power": 85
+      },
+      {
+        "name": "파도타기",
+        "power": 90
+      },
+      {
+        "name": "10만볼트",
+        "power": 90
+      },
+      {
+        "name": "신속",
+        "power": 80
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 149,
+    "name": "신뇽",
+    "type": [
+      "드래곤"
+    ],
+    "moves": [
+      {
+        "name": "드래곤다이브",
+        "power": 100
+      },
+      {
+        "name": "아쿠아테일",
+        "power": 90
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "신속",
+        "power": 80
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 150,
+    "name": "뮤츠",
+    "type": [
+      "에스퍼"
+    ],
+    "moves": [
+      {
+        "name": "사이코브레이크",
+        "power": 100
+      },
+      {
+        "name": "섀도볼",
+        "power": 80
+      },
+      {
+        "name": "파동탄",
+        "power": 80
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 151,
+    "name": "아보",
+    "type": [
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "독침",
+        "power": 15
+      },
+      {
+        "name": "김레치기",
+        "power": 15
+      },
+      {
+        "name": "더스트슈트",
+        "power": 120
+      },
+      {
+        "name": "물기",
+        "power": 60
+      }
+    ],
+    "image": "/images/아보.png"
+  },
+  {
+    "id": 152,
+    "name": "아보크",
+    "type": [
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "깨물어부수기",
+        "power": 80
+      },
+      {
+        "name": "더스트슈트",
+        "power": 120
+      }
+    ],
+    "image": "/images/아보크.png"
+  },
+  {
+    "id": 153,
+    "name": "망키",
+    "type": [
+      "격투"
+    ],
+    "moves": [
+      {
+        "name": "안력",
+        "power": 60
+      },
+      {
+        "name": "안다리걸기",
+        "power": 0
+      },
+      {
+        "name": "인파이트",
+        "power": 120
+      },
+      {
+        "name": "번개펀치",
+        "power": 75
+      }
+    ],
+    "image": "/images/망키.png"
+  },
+  {
+    "id": 154,
+    "name": "성원숭",
+    "type": [
+      "격투"
+    ],
+    "moves": [
+      {
+        "name": "인파이트",
+        "power": 120
+      },
+      {
+        "name": "크로스촙",
+        "power": 100
+      },
+      {
+        "name": "분노의주먹",
+        "power": 50
+      },
+      {
+        "name": "스톤샤워",
+        "power": 75
+      }
+    ],
+    "image": "/images/성원숭.png"
+  },
+  {
+    "id": 155,
+    "name": "콘팡",
+    "type": [
+      "벌레",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "흡혈",
+        "power": 80
+      },
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "수면가루",
+        "power": 0
+      }
+    ],
+    "image": "/images/콘팡.png"
+  },
+  {
+    "id": 156,
+    "name": "슬리프",
+    "type": [
+      "에스퍼"
+    ],
+    "moves": [
+      {
+        "name": "사념의박치기",
+        "power": 80
+      },
+      {
+        "name": "최면술",
+        "power": 0
+      },
+      {
+        "name": "섀도볼",
+        "power": 80
+      },
+      {
+        "name": "꿈먹기",
+        "power": 100
+      }
+    ],
+    "image": "/images/슬리프.png"
+  },
+  {
+    "id": 157,
+    "name": "슬리퍼",
+    "type": [
+      "에스퍼"
+    ],
+    "moves": [
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "섀도볼",
+        "power": 80
+      },
+      {
+        "name": "기합구슬",
+        "power": 120
+      },
+      {
+        "name": "번개펀치",
+        "power": 75
+      }
+    ],
+    "image": "/images/슬리퍼.png"
+  },
+  {
+    "id": 158,
+    "name": "깨비참",
+    "type": [
+      "노말",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "쪼기",
+        "power": 35
+      },
+      {
+        "name": "전광석화",
+        "power": 40
+      },
+      {
+        "name": "따라가때리기",
+        "power": 40
+      },
+      {
+        "name": "제비반환",
+        "power": 60
+      }
+    ],
+    "image": "/images/깨비참.png"
+  },
+  {
+    "id": 159,
+    "name": "파르셀",
+    "type": [
+      "물",
+      "얼음"
+    ],
+    "moves": [
+      {
+        "name": "고드름침",
+        "power": 25
+      },
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      },
+      {
+        "name": "껍질깨기",
+        "power": 0
+      },
+      {
+        "name": "얼음뭉치",
+        "power": 40
+      }
+    ],
+    "image": "/images/파르셀.png"
+  },
+  {
+    "id": 160,
+    "name": "고우스트",
+    "type": [
+      "고스트",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "섀도볼",
+        "power": 80
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "악의파동",
+        "power": 80
+      },
+      {
+        "name": "기합구슬",
+        "power": 120
+      }
+    ],
+    "image": "/images/고우스트.png"
+  },
+  {
+    "id": 161,
+    "name": "쥬뱃",
+    "type": [
+      "독",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "흡혈",
+        "power": 80
+      },
+      {
+        "name": "에어커터",
+        "power": 60
+      },
+      {
+        "name": "물기",
+        "power": 60
+      },
+      {
+        "name": "독니",
+        "power": 50
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 162,
+    "name": "두트리오",
+    "type": [
+      "노말",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "트라이어택",
+        "power": 80
+      },
+      {
+        "name": "드릴부리",
+        "power": 80
+      },
+      {
+        "name": "브레이브버드",
+        "power": 120
+      },
+      {
+        "name": "뛰어오르기",
+        "power": 85
+      }
+    ],
+    "image": "/images/두트리오.png"
+  },
+  {
+    "id": 163,
+    "name": "질퍽이",
+    "type": [
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "오물공격",
+        "power": 65
+      },
+      {
+        "name": "진흙뿌리기",
+        "power": 20
+      },
+      {
+        "name": "냉동펀치",
+        "power": 75
+      },
+      {
+        "name": "더스트슈트",
+        "power": 120
+      }
+    ],
+    "image": "/images/질퍽이.png"
+  },
+  {
+    "id": 164,
+    "name": "질뻐기",
+    "type": [
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "더스트슈트",
+        "power": 120
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "불꽃펀치",
+        "power": 75
+      }
+    ],
+    "image": "/images/질뻐기.png"
+  },
+  {
+    "id": 165,
+    "name": "베이리프",
+    "type": [
+      "풀"
+    ],
+    "moves": [
+      {
+        "name": "잎날가르기",
+        "power": 55
+      },
+      {
+        "name": "매지컬리프",
+        "power": 60
+      },
+      {
+        "name": "누르기",
+        "power": 85
+      },
+      {
+        "name": "광합성",
+        "power": 0
+      }
+    ],
+    "image": "/images/베이리프.png"
+  },
+  {
+    "id": 166,
+    "name": "쥬레곤",
+    "type": [
+      "물",
+      "얼음"
+    ],
+    "moves": [
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      },
+      {
+        "name": "아쿠아젤리",
+        "power": 0
+      },
+      {
+        "name": "절대영도",
+        "power": 0
+      }
+    ],
+    "image": "/images/쥬레곤.png"
+  },
+  {
+    "id": 167,
+    "name": "픽시",
+    "type": [
+      "페어리"
+    ],
+    "moves": [
+      {
+        "name": "문포스",
+        "power": 95
+      },
+      {
+        "name": "매지컬샤인",
+        "power": 80
+      },
+      {
+        "name": "화염방사",
+        "power": 90
+      },
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      }
+    ],
+    "image": "/images/픽시.png"
+  },
+  {
+    "id": 168,
+    "name": "꼬렛",
+    "type": [
+      "노말"
+    ],
+    "moves": [
+      {
+        "name": "몸통박치기",
+        "power": 40
+      },
+      {
+        "name": "전광석화",
+        "power": 40
+      },
+      {
+        "name": "분노의앞니",
+        "power": 0
+      },
+      {
+        "name": "물기",
+        "power": 60
+      }
+    ],
+    "image": "/images/꼬렛.png"
+  },
+  {
+    "id": 169,
+    "name": "만타인",
+    "type": [
+      "물",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      },
+      {
+        "name": "에어슬래시",
+        "power": 75
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "폭풍",
+        "power": 110
+      }
+    ],
+    "image": "/images/만타인.png"
+  },
+  {
+    "id": 170,
+    "name": "우츠보트",
+    "type": [
+      "풀",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "리프스톰",
+        "power": 130
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "리프블레이드",
+        "power": 90
+      },
+      {
+        "name": "흡혈",
+        "power": 80
+      }
+    ],
+    "image": "/images/우츠보트.png"
+  },
+  {
+    "id": 171,
+    "name": "부우부",
+    "type": [
+      "노말",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "에어슬래시",
+        "power": 75
+      },
+      {
+        "name": "신통력",
+        "power": 80
+      },
+      {
+        "name": "섀도볼",
+        "power": 80
+      },
+      {
+        "name": "최면술",
+        "power": 0
+      }
+    ],
+    "image": "/images/부우부.png"
+  },
+  {
+    "id": 172,
+    "name": "파오리",
+    "type": [
+      "노말",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "대파참",
+        "power": 0
+      },
+      {
+        "name": "에어슬래시",
+        "power": 75
+      },
+      {
+        "name": "리프블레이드",
+        "power": 90
+      },
+      {
+        "name": "브레이브버드",
+        "power": 120
+      }
+    ],
+    "image": "/images/파오리.png"
+  },
+  {
+    "id": 173,
+    "name": "피죤",
+    "type": [
+      "노말",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "날개치기",
+        "power": 60
+      },
+      {
+        "name": "전광석화",
+        "power": 40
+      },
+      {
+        "name": "바람일으키기",
+        "power": 40
+      },
+      {
+        "name": "에어슬래시",
+        "power": 75
+      }
+    ],
+    "image": "/images/피죤.png"
+  },
+  {
+    "id": 174,
+    "name": "토게틱",
+    "type": [
+      "요정",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "매지컬샤인",
+        "power": 80
+      },
+      {
+        "name": "에어슬래시",
+        "power": 75
+      },
+      {
+        "name": "불꽃세례",
+        "power": 40
+      },
+      {
+        "name": "화염방사",
+        "power": 90
+      }
+    ],
+    "image": "/images/토게틱.png"
+  },
+  {
+    "id": 175,
+    "name": "메가니움",
+    "type": [
+      "풀"
+    ],
+    "moves": [
+      {
+        "name": "솔라빔",
+        "power": 120
+      },
+      {
+        "name": "꽃잎댄스",
+        "power": 120
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "기가드레인",
+        "power": 75
+      }
+    ],
+    "image": "/images/메가니움.png"
+  },
+  {
+    "id": 176,
+    "name": "솜솜코",
+    "type": [
+      "풀",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "리프스톰",
+        "power": 130
+      },
+      {
+        "name": "아크로뱃",
+        "power": 55
+      },
+      {
+        "name": "기가드레인",
+        "power": 75
+      },
+      {
+        "name": "수면가루",
+        "power": 0
+      }
+    ],
+    "image": "/images/솜솜코.png"
+  },
+  {
+    "id": 177,
+    "name": "찌리리공",
+    "type": [
+      "전기"
+    ],
+    "moves": [
+      {
+        "name": "10만볼트",
+        "power": 90
+      },
+      {
+        "name": "자폭",
+        "power": 200
+      },
+      {
+        "name": "방전",
+        "power": 80
+      },
+      {
+        "name": "빛의장막",
+        "power": 0
+      }
+    ],
+    "image": "/images/찌리리공.png"
+  },
+  {
+    "id": 178,
+    "name": "삐삐",
+    "type": [
+      "페어리"
+    ],
+    "moves": [
+      {
+        "name": "문포스",
+        "power": 95
+      },
+      {
+        "name": "매지컬샤인",
+        "power": 80
+      },
+      {
+        "name": "메트로놈",
+        "power": 0
+      },
+      {
+        "name": "노래하기",
+        "power": 0
+      }
+    ],
+    "image": "/images/삐삐.png"
+  },
+  {
+    "id": 179,
+    "name": "이상해씨",
+    "type": [
+      "풀",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "덩굴채찍",
+        "power": 45
+      },
+      {
+        "name": "몸통박치기",
+        "power": 40
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "리프스톰",
+        "power": 130
+      }
+    ],
+    "image": "/images/이상해씨.png"
+  },
+  {
+    "id": 180,
+    "name": "이상해풀",
+    "type": [
+      "풀",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "잎날가르기",
+        "power": 55
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "솔라빔",
+        "power": 120
+      },
+      {
+        "name": "기가드레인",
+        "power": 75
+      }
+    ],
+    "image": "/images/이상해풀.png"
+  },
+  {
+    "id": 181,
+    "name": "셀러",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "물대포",
+        "power": 40
+      },
+      {
+        "name": "껍질끼우기",
+        "power": 35
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "얼음뭉치",
+        "power": 40
+      }
+    ],
+    "image": "/images/셀러.png"
+  },
+  {
+    "id": 182,
+    "name": "독침붕",
+    "type": [
+      "벌레",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "시저크로스",
+        "power": 80
+      },
+      {
+        "name": "독찌르기",
+        "power": 80
+      },
+      {
+        "name": "드릴라이너",
+        "power": 80
+      },
+      {
+        "name": "유턴",
+        "power": 70
+      }
+    ],
+    "image": "/images/독침붕.png"
+  },
+  {
+    "id": 183,
+    "name": "푸크린",
+    "type": [
+      "노말",
+      "페어리"
+    ],
+    "moves": [
+      {
+        "name": "하이퍼보이스",
+        "power": 90
+      },
+      {
+        "name": "치근거리기",
+        "power": 90
+      },
+      {
+        "name": "화염방사",
+        "power": 90
+      },
+      {
+        "name": "매지컬샤인",
+        "power": 80
+      }
+    ],
+    "image": "/images/푸크린.png"
+  },
+  {
+    "id": 184,
+    "name": "엘리게이",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "폭포오르기",
+        "power": 80
+      },
+      {
+        "name": "얼음엄니",
+        "power": 65
+      },
+      {
+        "name": "물기",
+        "power": 60
+      },
+      {
+        "name": "베어가르기",
+        "power": 70
+      }
+    ],
+    "image": "/images/엘리게이.png"
+  },
+  {
+    "id": 185,
+    "name": "아리아도스",
+    "type": [
+      "벌레",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "크로스포이즌",
+        "power": 70
+      },
+      {
+        "name": "흡혈",
+        "power": 80
+      },
+      {
+        "name": "메가폰",
+        "power": 120
+      },
+      {
+        "name": "깜짝베기",
+        "power": 70
+      }
+    ],
+    "image": "/images/아리아도스.png"
+  },
+  {
+    "id": 186,
+    "name": "독파리",
+    "type": [
+      "물",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      },
+      {
+        "name": "매지컬샤인",
+        "power": 80
+      }
+    ],
+    "image": "/images/독파리.png"
+  },
+  {
+    "id": 187,
+    "name": "장크로다일",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "폭포오르기",
+        "power": 80
+      },
+      {
+        "name": "냉동펀치",
+        "power": 75
+      },
+      {
+        "name": "지진",
+        "power": 100
+      },
+      {
+        "name": "깨물어부수기",
+        "power": 80
+      }
+    ],
+    "image": "/images/장크로다일.png"
+  },
+  {
+    "id": 188,
+    "name": "피죤투",
+    "type": [
+      "노말",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "폭풍",
+        "power": 110
+      },
+      {
+        "name": "브레이브버드",
+        "power": 120
+      },
+      {
+        "name": "열풍",
+        "power": 95
+      },
+      {
+        "name": "유턴",
+        "power": 70
+      }
+    ],
+    "image": "/images/피죤투.png"
+  },
+  {
+    "id": 189,
+    "name": "모다피",
+    "type": [
+      "풀",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "덩굴채찍",
+        "power": 45
+      },
+      {
+        "name": "독가루",
+        "power": 0
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "잎날가르기",
+        "power": 55
+      }
+    ],
+    "image": "/images/모다피.png"
+  },
+  {
+    "id": 190,
+    "name": "뿔충이",
+    "type": [
+      "벌레",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "독침",
+        "power": 15
+      },
+      {
+        "name": "실뿜기",
+        "power": 0
+      },
+      {
+        "name": "몸통박치기",
+        "power": 40
+      },
+      {
+        "name": "없음",
+        "power": 0
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 191,
+    "name": "딱충이",
+    "type": [
+      "벌레",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "단단해지기",
+        "power": 0
+      },
+      {
+        "name": "벌레먹기",
+        "power": 60
+      },
+      {
+        "name": "독침",
+        "power": 15
+      },
+      {
+        "name": "없음",
+        "power": 0
+      }
+    ],
+    "image": "/images/딱충이.png"
+  },
+  {
+    "id": 192,
+    "name": "골뱃",
+    "type": [
+      "독",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "공중날기",
+        "power": 90
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "물기",
+        "power": 60
+      },
+      {
+        "name": "흡혈",
+        "power": 80
+      }
+    ],
+    "image": "/images/골뱃.png"
+  },
+  {
+    "id": 193,
+    "name": "네이티오",
+    "type": [
+      "에스퍼",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "사이코키네시스",
+        "power": 90
+      },
+      {
+        "name": "에어슬래시",
+        "power": 75
+      },
+      {
+        "name": "열풍",
+        "power": 95
+      },
+      {
+        "name": "섀도볼",
+        "power": 80
+      }
+    ],
+    "image": "/images/네이티오.png"
+  },
+  {
+    "id": 194,
+    "name": "레디안",
+    "type": [
+      "벌레",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "번개펀치",
+        "power": 75
+      },
+      {
+        "name": "냉동펀치",
+        "power": 75
+      },
+      {
+        "name": "불꽃펀치",
+        "power": 75
+      },
+      {
+        "name": "벌레의법석",
+        "power": 90
+      }
+    ],
+    "image": "/images/레디안.png"
+  },
+  {
+    "id": 195,
+    "name": "침바루",
+    "type": [
+      "물",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "아쿠아테일",
+        "power": 90
+      },
+      {
+        "name": "독찌르기",
+        "power": 80
+      },
+      {
+        "name": "대폭발",
+        "power": 250
+      },
+      {
+        "name": "폭포오르기",
+        "power": 80
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 196,
+    "name": "크랩",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "집게햄머",
+        "power": 100
+      },
+      {
+        "name": "박치기",
+        "power": 70
+      },
+      {
+        "name": "아쿠아제트",
+        "power": 40
+      },
+      {
+        "name": "시저크로스",
+        "power": 80
+      }
+    ],
+    "image": "/images/크랩.png"
+  },
+  {
+    "id": 197,
+    "name": "킹크랩",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "집게햄머",
+        "power": 100
+      },
+      {
+        "name": "시저크로스",
+        "power": 80
+      },
+      {
+        "name": "엄청난힘",
+        "power": 120
+      },
+      {
+        "name": "고속이동",
+        "power": 0
+      }
+    ],
+    "image": "/images/킹크랩.png"
+  },
+  {
+    "id": 198,
+    "name": "레트라",
+    "type": [
+      "노말"
+    ],
+    "moves": [
+      {
+        "name": "필살앞니",
+        "power": 80
+      },
+      {
+        "name": "전광석화",
+        "power": 40
+      },
+      {
+        "name": "기습",
+        "power": 70
+      },
+      {
+        "name": "유턴",
+        "power": 70
+      }
+    ],
+    "image": "/images/레트라.png"
+  },
+  {
+    "id": 199,
+    "name": "고오스",
+    "type": [
+      "고스트",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "핥기",
+        "power": 30
+      },
+      {
+        "name": "나이트헤드",
+        "power": 0
+      },
+      {
+        "name": "오물폭탄",
+        "power": 90
+      },
+      {
+        "name": "섀도볼",
+        "power": 80
+      }
+    ],
+    "image": "/images/고오스.png"
+  },
+  {
+    "id": 200,
+    "name": "리아코",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "물대포",
+        "power": 40
+      },
+      {
+        "name": "물기",
+        "power": 60
+      },
+      {
+        "name": "얼음엄니",
+        "power": 65
+      },
+      {
+        "name": "베어가르기",
+        "power": 70
+      }
+    ],
+    "image": "/images/리아코.png"
+  },
+  {
+    "id": 201,
+    "name": "다꼬리",
+    "type": [
+      "노말"
+    ],
+    "moves": [
+      {
+        "name": "짓밟기",
+        "power": 65
+      },
+      {
+        "name": "전광석화",
+        "power": 40
+      },
+      {
+        "name": "깜짝베기",
+        "power": 70
+      },
+      {
+        "name": "유턴",
+        "power": 70
+      }
+    ],
+    "image": "/images/다꼬리.png"
+  },
+  {
+    "id": 202,
+    "name": "쥬쥬",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "물대포",
+        "power": 40
+      },
+      {
+        "name": "아쿠아제트",
+        "power": 40
+      },
+      {
+        "name": "얼음뭉치",
+        "power": 40
+      },
+      {
+        "name": "오로라빔",
+        "power": 65
+      }
+    ],
+    "image": "/images/쥬쥬.png"
+  },
+  {
+    "id": 203,
+    "name": "단데기",
+    "type": [
+      "벌레"
+    ],
+    "moves": [
+      {
+        "name": "단단해지기",
+        "power": 0
+      },
+      {
+        "name": "벌레먹기",
+        "power": 60
+      },
+      {
+        "name": "몸통박치기",
+        "power": 40
+      },
+      {
+        "name": "없음",
+        "power": 0
+      }
+    ],
+    "image": "/images/단데기.png"
+  },
+  {
+    "id": 204,
+    "name": "쏘드라",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "거품",
+        "power": 40
+      },
+      {
+        "name": "용의숨결",
+        "power": 60
+      },
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 205,
+    "name": "시드라",
+    "type": [
+      "물"
+    ],
+    "moves": [
+      {
+        "name": "파도타기",
+        "power": 90
+      },
+      {
+        "name": "용의파동",
+        "power": 85
+      },
+      {
+        "name": "하이드로펌프",
+        "power": 110
+      },
+      {
+        "name": "냉동빔",
+        "power": 90
+      }
+    ],
+    "image": "/images/시드라.png"
+  },
+  {
+    "id": 206,
+    "name": "브케인",
+    "type": [
+      "불꽃"
+    ],
+    "moves": [
+      {
+        "name": "불꽃세례",
+        "power": 40
+      },
+      {
+        "name": "전광석화",
+        "power": 40
+      },
+      {
+        "name": "화염방사",
+        "power": 90
+      },
+      {
+        "name": "분화",
+        "power": 150
+      }
+    ],
+    "image": "/images/unknown.png"
+  },
+  {
+    "id": 207,
+    "name": "블레이범",
+    "type": [
+      "불꽃"
+    ],
+    "moves": [
+      {
+        "name": "분화",
+        "power": 150
+      },
+      {
+        "name": "화염방사",
+        "power": 90
+      },
+      {
+        "name": "기합구슬",
+        "power": 120
+      },
+      {
+        "name": "지진",
+        "power": 100
+      }
+    ],
+    "image": "/images/블레이범.png"
+  },
+  {
+    "id": 208,
+    "name": "마그케인",
+    "type": [
+      "불꽃"
+    ],
+    "moves": [
+      {
+        "name": "화염방사",
+        "power": 90
+      },
+      {
+        "name": "전광석화",
+        "power": 40
+      },
+      {
+        "name": "오버히트",
+        "power": 130
+      },
+      {
+        "name": "연기막",
+        "power": 0
+      }
+    ],
+    "image": "/images/마그케인.png"
+  },
+  {
+    "id": 209,
+    "name": "두두",
+    "type": [
+      "노말",
+      "비행"
+    ],
+    "moves": [
+      {
+        "name": "쪼기",
+        "power": 35
+      },
+      {
+        "name": "전광석화",
+        "power": 40
+      },
+      {
+        "name": "뛰어오르기",
+        "power": 85
+      },
+      {
+        "name": "드릴부리",
+        "power": 80
+      }
+    ],
+    "image": "/images/두두.png"
+  },
+  {
+    "id": 210,
+    "name": "우츠동",
+    "type": [
+      "풀",
+      "독"
+    ],
+    "moves": [
+      {
+        "name": "잎날가르기",
+        "power": 55
+      },
+      {
+        "name": "오물오물해",
+        "power": 65
+      },
+      {
+        "name": "기가드레인",
+        "power": 75
+      },
+      {
+        "name": "수면가루",
+        "power": 0
+      }
+    ],
+    "image": "/images/우츠동.png"
+  }
+]
